@@ -107,6 +107,7 @@ g.dijkstra(0)
 ```
 
 Получили результат:
-1.12 ms ± 15.6 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
+
+    1.12 ms ± 15.6 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
 
 Применим %%cython -a к коду программы и получим скомпилированный в автономном модуле cython код программы.
