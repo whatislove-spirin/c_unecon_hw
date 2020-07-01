@@ -86,6 +86,7 @@ g.graph = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
 
 g.dijkstra(0)
 ```
+```
 Vertex tDistance from Source
 0 t 0
 1 t 4
@@ -96,6 +97,7 @@ Vertex tDistance from Source
 6 t 9
 7 t 8
 8 t 14
+```
 
 Посмотрим время выполнения программы:
 
